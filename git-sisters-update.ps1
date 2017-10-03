@@ -1,4 +1,4 @@
-# updated by Me AGAIN
+# updated by Me AGAIN == MASTER
 # git-sisters-update.ps1 from within http://github.com/wilsonmar/git-utilities.
 # by Wilson Mar (wilsonmar@gmail.com, @wilsonmar)
 
